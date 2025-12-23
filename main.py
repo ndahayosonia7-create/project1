@@ -1,5 +1,5 @@
 
-lady = "Keza"
+lady = "Bijou"
 def greet(name):
     print("Hello ", name)
 
