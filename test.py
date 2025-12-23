@@ -3,4 +3,6 @@ dude = "Olivier"
 def greet(name):
     print("Hello ", name)
 
-greet(dude)
+for i in range(12):
+    greet(dude)
+
