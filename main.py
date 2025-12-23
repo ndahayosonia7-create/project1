@@ -1,4 +1,4 @@
-lady = "Marie"
+lady = "Jean"
 
 def greet(name):
     print("Hello ", name)
